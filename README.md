@@ -15,3 +15,6 @@ https://www.nature.com/articles/s41467-021-25125-1 (seqSeek)
 Differential abudance on sc data
 https://www.researchgate.net/publication/347117415_Milo_differential_abundance_testing_on_single-cell_data_using_k-NN_graphs
 https://github.com/MarioniLab/miloR 
+
+Tutorials - workflow
+- Monocle http://cole-trapnell-lab.github.io/monocle-release/docs_mobile/
