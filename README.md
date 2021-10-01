@@ -2,6 +2,8 @@
 Reading list and tutorial links - scRNA-Seq
 
 Discovery
+- uTAR https://www.nature.com/articles/s41467-021-22496-3#citeas
+- GroHMM https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0656-3
 - Deep learning for ncRNA discovery https://www.nature.com/articles/s41467-020-17678-4 
 - Deep learning based GO https://www.nature.com/articles/s41598-020-80786-0 
 - TraceSeq - Transcriptional programs underlying cancer drug response https://www.nature.com/articles/s41587-021-01005-3 
