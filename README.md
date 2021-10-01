@@ -21,3 +21,15 @@ Milo
 
 Tutorials - workflow
 - Monocle http://cole-trapnell-lab.github.io/monocle-release/docs_mobile/
+- Scanpy  https://youtu.be/jwSPTgF9ESQ , https://scanpy.readthedocs.io/en/stable/
+
+Data and software
+- scRNA tools https://www.biorxiv.org/content/10.1101/2021.08.13.456196v1.full?s=08
+- Dyneverse https://dynverse.org/
+- Panglaodb https://panglaodb.se/samples.html?species=human&protocol=10x%20chromium&sort=numberofcells
+- HCA 
+- Tissue stability cell atlas https://www.tissuestabilitycellatlas.org/
+
+SNPs and scRNA
+- TWAS https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1942-6  https://pubmed.ncbi.nlm.nih.gov/33763117/
+- Rolypoly https://pubmed.ncbi.nlm.nih.gov/29106824/ https://www.frontiersin.org/articles/10.3389/fgene.2021.637322/full
