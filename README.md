@@ -9,6 +9,8 @@ Discovery
 - TraceSeq - Transcriptional programs underlying cancer drug response https://www.nature.com/articles/s41587-021-01005-3 
 - Confronting false positive discoveries https://www.nature.com/articles/s41467-021-25960-2
 - Eye tissues scRNA across species https://www.nature.com/articles/s41467-021-25968-8
+- sc and ST review https://docs.google.com/document/d/1KmEv5VYRCMFGGIBWIMEYTuWGg3IcgWVHGFmrxMlDgCg/edit?usp=sharing
+-  Dr.Quan's papers https://researchers.uq.edu.au/researcher/16084 https://espace.library.uq.edu.au/view/UQ:480551 https://espace.library.uq.edu.au/view/UQ:464a7d0
 
 Cell type classification 
 - scPred https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1862-5
@@ -22,6 +24,9 @@ Milo
 Tutorials - workflow
 - Monocle http://cole-trapnell-lab.github.io/monocle-release/docs_mobile/
 - Scanpy  https://youtu.be/jwSPTgF9ESQ , https://scanpy.readthedocs.io/en/stable/
+- Seurat sc https://satijalab.org/seurat/articles/pbmc3k_tutorial.html
+- Seurat ST https://satijalab.org/seurat/articles/spatial_vignette.html
+
 
 Data and software
 - scRNA tools https://www.biorxiv.org/content/10.1101/2021.08.13.456196v1.full?s=08
@@ -29,6 +34,7 @@ Data and software
 - Panglaodb https://panglaodb.se/samples.html?species=human&protocol=10x%20chromium&sort=numberofcells
 - HCA 
 - Tissue stability cell atlas https://www.tissuestabilitycellatlas.org/
+- UKBB (GWAS) https://pan.ukbb.broadinstitute.org/downloads 
 
 SNPs and scRNA
 - TWAS https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1942-6  https://pubmed.ncbi.nlm.nih.gov/33763117/
