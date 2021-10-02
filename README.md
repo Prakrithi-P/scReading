@@ -20,12 +20,14 @@ Differential abudance on sc data
 Milo
 - https://www.researchgate.net/publication/347117415_Milo_differential_abundance_testing_on_single-cell_data_using_k-NN_graphs
 - https://github.com/MarioniLab/miloR 
+- https://www.nature.com/articles/s41587-021-01033-z 
 
 Tutorials - workflow
 - Monocle http://cole-trapnell-lab.github.io/monocle-release/docs_mobile/
 - Scanpy  https://youtu.be/jwSPTgF9ESQ , https://scanpy.readthedocs.io/en/stable/
 - Seurat sc https://satijalab.org/seurat/articles/pbmc3k_tutorial.html
 - Seurat ST https://satijalab.org/seurat/articles/spatial_vignette.html
+- Cell cycle seurat https://satijalab.org/seurat/archive/v3.0/cell_cycle_vignette.html 
 
 
 Data and software
