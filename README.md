@@ -15,7 +15,7 @@ Discovery
 Cell type classification 
 - scPred https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1862-5
 - seqSeek https://www.nature.com/articles/s41467-021-25125-1 (spine)
-- Brain http://celltypes.org/brain/ https://www.nature.com/articles/s41598-018-27293-5
+- Brain http://celltypes.org/brain/ https://www.nature.com/articles/s41598-018-27293-5 https://www.nature.com/articles/s41593-020-0685-8
 
 Differential abudance on sc data
 Milo
