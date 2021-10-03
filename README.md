@@ -30,7 +30,7 @@ Tutorials - workflow
 - Seurat ST https://satijalab.org/seurat/articles/spatial_vignette.html
 - Cell cycle seurat https://satijalab.org/seurat/archive/v3.0/cell_cycle_vignette.html 
 
-
+ 
 Data and software
 - scRNA tools https://www.biorxiv.org/content/10.1101/2021.08.13.456196v1.full?s=08
 - Dyneverse https://dynverse.org/
