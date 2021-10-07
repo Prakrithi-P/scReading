@@ -28,6 +28,7 @@ Tutorials - workflow
 - Scanpy  https://youtu.be/jwSPTgF9ESQ , https://scanpy.readthedocs.io/en/stable/
 - Seurat sc https://satijalab.org/seurat/articles/pbmc3k_tutorial.html
 - Seurat ST https://satijalab.org/seurat/articles/spatial_vignette.html
+- Seurat visualization https://satijalab.org/seurat/archive/v3.0/visualization_vignette.html
 - Cell cycle seurat https://satijalab.org/seurat/archive/v3.0/cell_cycle_vignette.html 
 
   
